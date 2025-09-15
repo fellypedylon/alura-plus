@@ -10,11 +10,6 @@ O Alura Plus é uma **landing page** de divulgação de um serviço de streaming
 - HTML5  
 - CSS3  
 
-## 📸 Preview
-![Screenshot do projeto](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5589afb8-79a1-4afa-97e1-d94a939a6159" />
-)  
-
-
 ## 🌐 Acesse o projeto
 [🔗 Clique aqui para ver o deploy no GitHub Pages](https://fellypedylon.github.io/alura-plus)  
 
